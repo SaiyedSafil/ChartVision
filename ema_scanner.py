@@ -682,6 +682,9 @@ def main():
     # Display explanation
     with st.expander("How This Scanner Works"):
         st.markdown(f"""
+
+        Disclaimer: This project is intended for educational and informational purposes only. You are solely responsible for any profits or losses you may incur.
+        
         ## Stocks Scanner Logic
         
         This scanner identifies stocks with confirmed trend changes:
